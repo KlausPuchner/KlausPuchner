@@ -3,7 +3,7 @@ I am Klaus and I am an experienced IT Service Manager, IT Project Manager, Solut
 
 ## Technologies & Tools
 
-<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=Plastic" />
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=https://simpleicons.org/icons/python.svg&logoColor=ColorName&style=Plastic" />
 
 Here are some ideas to get you started:
 
