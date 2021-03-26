@@ -4,8 +4,8 @@ I am Klaus and I am an experienced IT Service Manager, IT Project Manager, Solut
 ## Technologies & Tools
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=plastic" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=plastic" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-61DAFB?logo=docker&logoColor=white&style=plastic" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-DD0031?logo=bash&logoColor=white&style=plastic" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?or-the-badge"logo=javascript&logoColor=white&style=plastic" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=plastic" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=plastic" />
